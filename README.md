@@ -13,8 +13,8 @@ The Dark/Light Mode Switch allows you to switch between dark and light mode on y
 
 ### Prerequisites
 - Python 3.x installed on your system
-- AppKit module installed (`pip install pyobjc`)
-- Spotify installed on your system
+- Packages installed (`pip install -r requirements.txt`)
+- Spotify installed on your system (for the Music Player feature)
 
 ### Running the Project
 1. Clone the repository to your local machine
