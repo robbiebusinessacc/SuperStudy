@@ -1,4 +1,4 @@
-#***Due to Apple Developer Requirements downloading this project is impossible without fulling self setting it up with python (pylauncher is deemed a virus without a Apple Developer ID)
+# Due to Apple Developer Requirements downloading this project is impossible without fulling self setting it up with python (pylauncher is deemed a virus without a Apple Developer ID)
 
 # SuperStudy
 
