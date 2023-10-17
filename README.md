@@ -21,7 +21,7 @@ The Dark/Light Mode Switch allows you to switch between dark and light mode on y
 ### Running the Project
 1. Clone the repository to your local machine
 2. Navigate to the project folder in the terminal
-3. Run `python menu.py` to start the menu for all the features
+3. Run `python SuperStudyMenu.py` to start the menu for all the features
 
 
 ### Future Work
