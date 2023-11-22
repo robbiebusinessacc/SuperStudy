@@ -29,7 +29,7 @@ The Dark/Light Mode Switch allows you to switch between dark and light mode on y
 - Integrating study resources, such as videos, quizzes, and flashcards
 
 ### Contributing
-If you are interested in contributing to this project, please feel free to submit a pull request or reach out to us.
+If you are interested in contributing to this project, please feel free to submit a pull request or reach out.
 
 ### License
 This project is licensed under the unlicense License.
