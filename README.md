@@ -1,5 +1,3 @@
-# Due to Apple Developer Requirements downloading this project is impossible without fulling self setting it up with python (pylauncher and cx_freeze is deemed a virus without a Apple Developer ID)
-
 # SuperStudy
 
 SuperStudy is designed to help you stay focused and productive while studying. This project includes three features: Pomodoro Timer, Music Player, and Dark/Light Mode Switch.
